@@ -1,0 +1,4 @@
+This is to predict click through rate prediction. Labels for this dataset is highly imbalanced, see how simple feature engineering (aggregation and cum-sum) help achieving higher model performance.
+
+Thanks,
+Siva
